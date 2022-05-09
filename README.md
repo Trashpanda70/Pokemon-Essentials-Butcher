@@ -5,3 +5,5 @@ A script allowing for the easy creation of a simple butcher event. Includes the 
 Currently only calculations can be done according to the height of a Pokemon, and if I can figure out how to do them using the weight then I will update with that functionality.
 
 To get the script to work, create a new script section above the main and simply paste the code in.
+
+Works with Essentials 19 (not sure about anything before that)
